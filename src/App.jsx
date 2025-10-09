@@ -50,7 +50,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen w-full flex justify-center items-center p-6">
+    <div className="min-h-screen bg-black w-full flex justify-center items-center p-6">
       <div className="flex flex-col md:flex-row lg:flex-row gap-6 max-w-6xl w-full rounded-xl p-6 bg-black">
         {/* Left Form */}
         <div className="bg-[#202020] text-white rounded-xl shadow-lg p-6 md:w-1/2 w-full border border-white">
