@@ -100,7 +100,7 @@ export default function App() {
             </div>
 
             <div>
-              <label className="block mb-1">Clients Closed (per month)</label>
+              <label className="block mb-1">Clients Closed (per)</label>
               <input
                 type="number"
                 value={clientsClosed}
