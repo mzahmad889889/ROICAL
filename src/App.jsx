@@ -111,7 +111,7 @@ export default function App() {
 
             <button
               onClick={handleCalculate}
-              className="w-full bg-[#C6E957] text-black font-semibold py-4 mt-4 rounded-lg hover:bg-[#7D9827] transition"
+              className="w-full bg-[#C6E957] text-black font-semibold py-4 mt-4 rounded-lg cursor-pointer hover:bg-[#7D9827] transition"
             >
               Calculate
             </button>
